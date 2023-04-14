@@ -1,2 +1,3 @@
-/task/build/*
-.idea/*
+Coffee Machine (Kotlin)/task/build/
+.idea/
+.gradle/
